@@ -41,4 +41,6 @@ To calculate How many People are contributing in Hacktoberfest Every Year (Easy 
 
 * [anacodes](https://github.com/anacodes)
 
+*[sanduni-E](https://github.com/sanduni-E)
+
 Happy HacktoberFest
